@@ -15,6 +15,7 @@ import { MatCardModule } from '@angular/material/card';
 import { FooterComponent } from './components/template/footer/footer.component';
 import { NavComponent } from './components/template/nav/nav.component';
 import { HomeComponent } from './views/home/home.component';
+import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { HomeComponent } from './views/home/home.component';
     FooterComponent,
     NavComponent,
     HomeComponent,
+    ProductCrudComponent,
   ],
   imports: [
     BrowserModule,
