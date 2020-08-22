@@ -1,0 +1,19 @@
+{
+    "products":[{
+        "id":1,
+        "name":"Teclado Mecanico",
+        "price":300.89
+    },
+    {
+        "id":2,
+        "name":"Ultrabook",
+        "price":5000.89
+    },
+    {
+        "id":3,
+        "name":"Monitor ultrawide",
+        "price":1000.00
+    }
+
+    ]
+}
