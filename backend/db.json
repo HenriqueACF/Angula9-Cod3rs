@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Teclado Mecanico",
-      "price": "400"
-    },
-    {
       "id": 2,
       "name": "Ultrabook",
       "price": 5000.89
@@ -24,11 +19,6 @@
       "name": "teste dia 24/08",
       "price": "222.45",
       "id": 6
-    },
-    {
-      "name": "teste 3",
-      "price": "55555",
-      "id": 7
     }
   ]
 }
