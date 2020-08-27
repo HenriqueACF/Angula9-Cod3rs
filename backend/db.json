@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 2,
-      "name": "Ultrabook",
-      "price": 5000.89
+      "name": "Ultrabook 4",
+      "price": "5000.897"
     },
     {
       "id": 3,
